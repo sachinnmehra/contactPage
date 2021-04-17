@@ -1,0 +1,14 @@
+.contact-data {
+  overflow: visible;
+}
+.heading {
+  display: inline;
+  margin: 5px 20px;
+}
+.heading-1 {
+  display: inline-block;
+  margin: 2px 60px;
+}
+.contact-list-wrapper {
+  margin: 30px auto;
+}
